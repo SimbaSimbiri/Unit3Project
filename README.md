@@ -36,13 +36,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='https://designvault.io/shot/1311/' title='Seven Goal Setting' width='' alt='Chosen Screenshot' />
+<img src='https://imgur.com/1fvjbD1' title='Seven Goal Setting' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='70' height = '100' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
@@ -53,7 +53,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **will be Africa's fastest growing bank's, Equity Bank, virtual platform**.
 
-<img src='https://i.imgur.com/fRFZabj.gif' title='EquityJamii GIF' width='' alt='EquityJamii Gif' />
+<img src='https://imgur.com/pYYjRYK' title='EquityJamii layout' width='' alt='EquityJamii layout' />
 
 ## Notes
 
