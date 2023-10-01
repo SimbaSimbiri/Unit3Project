@@ -36,13 +36,13 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **App Name Here** app:
 
-<img src='https://i.imgur.com/1fvjbD1.png' title='Seven Goal Setting' width='200' height = '500' alt='Chosen Screenshot' />
+<img src='https://i.imgur.com/1fvjbD1.png' title='Seven Goal Setting' width='250' height = '500' alt='Chosen Screenshot' />
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='200' height = '500' alt='Video Demo' />
+<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='250' height = '500' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
@@ -53,7 +53,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **will be Africa's fastest growing bank's, Equity Bank, virtual platform**.
 
-<img src='https://i.imgur.com/pYYjRYK.png' title='EquityJamii layout' width='200' height = '500' alt='EquityJamii layout' />
+<img src='https://i.imgur.com/pYYjRYK.png' title='EquityJamii layout' width='250' height = '500' alt='EquityJamii layout' />
 
 ## Notes
 
