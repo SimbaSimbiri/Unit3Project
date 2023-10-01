@@ -42,7 +42,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='700' height = '1000' alt='Video Demo' />
+<img src='https://i.imgur.com/ubd4c4E.gif' title='Simba Restaraunt Demo' width='300' height = '500' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
